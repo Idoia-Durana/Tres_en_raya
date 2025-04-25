@@ -10,3 +10,6 @@
 - **Diseño Simple y Claro**: La interfaz es limpia y fácil de entender, adecuada para todas las edades.
 - **Reinicio Automático**: Una vez que el juego termina, el tablero se restablece para jugar otra vez sin necesidad de recargar la página.
 - **Responsive**: El diseño se adapta a diferentes tamaños de pantalla, asegurando que el juego funcione bien en dispositivos móviles y escritorios.
+
+
+![image](https://github.com/user-attachments/assets/5d2e228c-5a4d-469b-bb53-2863d83b27fc)
